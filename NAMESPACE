@@ -1,0 +1,6 @@
+export(compute_rii)
+export(plot_rii_bar)
+export(plot_rii_rank)
+import(dplyr)
+import(ggplot2)
+import(viridis)
